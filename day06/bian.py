@@ -9,7 +9,7 @@ headers = {
 }
 response = requests.get(url, headers=headers)
 response.encoding = 'gbk'
-print(response.text)
+# print(response.text)
 e = html.etree.HTML(response.text)
 # 获得每一期数据
 types = e.xpath('//div[@id="main"]/div[@class="classify clearfix"]/a/text()')
