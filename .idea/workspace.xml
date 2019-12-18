@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34492d9c-3dd9-4e96-ad8b-f1b0c1e0010e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34492d9c-3dd9-4e96-ad8b-f1b0c1e0010e" name="Default" comment="添加彼岸4k的html页面还有views">
       <change beforePath="$PROJECT_DIR$/day06/bian.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/bian.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,9 +15,9 @@
     <SUITE FILE_PATH="coverage/13DaysFishPython$25_pyquery.coverage" NAME="25.pyquery的使用 Coverage Results" MODIFIED="1575798971831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/C20181009$07_post.coverage" NAME="07-post请求 Coverage Results" MODIFIED="1541686576182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/C20181009$06_.coverage" NAME="06-贴吧案例 Coverage Results" MODIFIED="1541684898203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
-    <SUITE FILE_PATH="coverage/13DaysFishPython$37_.coverage" NAME="37.双色球数据保存到数据库 Coverage Results" MODIFIED="1576416199532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/13DaysFishPython$37_.coverage" NAME="37.双色球数据保存到数据库 Coverage Results" MODIFIED="1576500964492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/13DaysFishPython$36_tuchong.coverage" NAME="36.tuchong Coverage Results" MODIFIED="1576312436500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/13DaysFishPython$bian.coverage" NAME="bian Coverage Results" MODIFIED="1576500587723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/13DaysFishPython$bian.coverage" NAME="bian Coverage Results" MODIFIED="1576501270459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/C20181009$05_get2.coverage" NAME="05-get请求2 Coverage Results" MODIFIED="1541681175051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/13DaysFishPython$24_Xpath.coverage" NAME="24.Xpath的使用 Coverage Results" MODIFIED="1575206201026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/C20181009$02_Request.coverage" NAME="02-Request的使用 Coverage Results" MODIFIED="1539263205832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
@@ -35,23 +34,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day06/bian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="390">
+              <caret line="25" column="15" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06/37.双色球数据保存到数据库.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <element signature="e#139#179#0" />
               </folding>
             </state>
           </provider>
@@ -311,12 +297,20 @@
       <workItem from="1576406793327" duration="877000" />
       <workItem from="1576411070364" duration="4518000" />
       <workItem from="1576499558993" duration="42000" />
-      <workItem from="1576500288590" duration="296000" />
+      <workItem from="1576500288590" duration="1054000" />
     </task>
+    <task id="LOCAL-00001" summary="添加彼岸4k的html页面还有views">
+      <created>1576500746696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576500746696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35724000" />
+    <option name="totallyTimeSpent" value="36482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,7 +330,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.2082153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.2082153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39703155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,6 +375,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加彼岸4k的html页面还有views" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加彼岸4k的html页面还有views" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -651,23 +649,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06/bian.py">
+    <entry file="file://$PROJECT_DIR$/day06/37.双色球数据保存到数据库.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="490">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#139#179#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06/37.双色球数据保存到数据库.py">
+    <entry file="file://$PROJECT_DIR$/day06/bian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="390">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="32" selection-end-column="14" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#139#179#0" />
           </folding>
         </state>
       </provider>
