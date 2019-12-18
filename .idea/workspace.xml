@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34492d9c-3dd9-4e96-ad8b-f1b0c1e0010e" name="Default" comment="添加彼岸4k的html页面还有views">
-      <change beforePath="$PROJECT_DIR$/day06/bian.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/bian.py" afterDir="false" />
+    <list default="true" id="34492d9c-3dd9-4e96-ad8b-f1b0c1e0010e" name="Default" comment="添加彼岸4k的html页面还有views&#10;提交测试文件到仓库&#10;提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day06/bian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="25" column="15" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="162">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -298,6 +298,7 @@
       <workItem from="1576411070364" duration="4518000" />
       <workItem from="1576499558993" duration="42000" />
       <workItem from="1576500288590" duration="1054000" />
+      <workItem from="1576674684517" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="添加彼岸4k的html页面还有views">
       <created>1576500746696</created>
@@ -306,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576500746696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加彼岸4k的html页面还有views&#10;提交测试文件到仓库&#10;提交">
+      <created>1576674827456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576674827456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36482000" />
+    <option name="totallyTimeSpent" value="37704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,7 +333,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13538875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13672923" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,7 +386,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加彼岸4k的html页面还有views" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加彼岸4k的html页面还有views" />
+    <MESSAGE value="添加彼岸4k的html页面还有views&#10;提交测试文件到仓库&#10;提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加彼岸4k的html页面还有views&#10;提交测试文件到仓库&#10;提交" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -662,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day06/bian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="162">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
